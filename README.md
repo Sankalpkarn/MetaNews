@@ -21,7 +21,7 @@ This News App is a responsive web application built using React.js that provides
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/news-app.git
-   cd news-app
+   cd MetaNews
    ```
 
 2. Install dependencies:
